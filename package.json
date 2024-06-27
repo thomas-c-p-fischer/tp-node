@@ -1,0 +1,18 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script1": "script1",
+    "script2": "script2",
+    "script3": "script3",
+    "run-all": "npm run script1; npm run script2; npm run script3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js": "file:../node-js"
+  }
+}
